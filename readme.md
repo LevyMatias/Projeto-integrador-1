@@ -38,3 +38,4 @@ Para visualizar a descrição de uma ong, clique no botão descrição na ong de
 - [Verônica C. Ferreira](https://github.com/veronicacferreira)
 - [Amanda Gonçalves](https://github.com/Mandy310798)
 - [Kleber Nunes](https://github.com/KleberNunes007)
+- [Ana Guedes](https://github.com/Annagu3des)
