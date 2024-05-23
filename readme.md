@@ -37,3 +37,4 @@ Para visualizar a descrição de uma ong, clique no botão descrição na ong de
 - [João Henrique](https://github.com/Jhenrique867)
 - [Verônica C. Ferreira](https://github.com/veronicacferreira)
 - [Amanda Gonçalves](https://github.com/Mandy310798)
+- [Kleber Nunes](https://github.com/KleberNunes007)
